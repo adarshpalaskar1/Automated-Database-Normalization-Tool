@@ -1,1 +1,1 @@
-"# Automatic_Normalization" 
+## Automated Database Normalization Tool
